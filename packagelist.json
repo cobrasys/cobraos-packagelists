@@ -6,8 +6,12 @@
 			"codesource": "https://raw.githubusercontent.com/cobrasys/cobraos-packagelists/main/source/test.js"
 		},
 		"python": {
-			"version": "1.0",
+			"version": "3.7",
 			"codesource": "https://raw.githubusercontent.com/cobrasys/cobraos-packagelists/main/source/python.js"
+		},
+		"g++": {
+			"version": "11.0",
+			"codesource": "https://raw.githubusercontent.com/cobrasys/cobraos-packagelists/main/source/g++.js"
 		}
 	}
 }
