@@ -1,13 +1,13 @@
 {
-    "provider": "cobraosofficial.pkg.repo",
-    "packages": {
-        "python": {
-            "version": "3.7",
-            "codesource": "https://raw.githubusercontent.com/cobrasys/cobraos-packagelists/main/source/python.js"
-        },
-        "test": {
-            "version": "1.0",
-            "codesource": "https://raw.githubusercontent.com/cobrasys/cobraos-packagelists/main/source/test.js"
-        },
-    }
+	"provider": "cobraosofficial.pkg.repo",
+	"packages": {
+		"test": {
+			"version": "1.0",
+			"codesource": "https://raw.githubusercontent.com/cobrasys/cobraos-packagelists/main/source/test.js"
+		},
+		"python": {
+			"version": "1.0",
+			"codesource": "https://raw.githubusercontent.com/cobrasys/cobraos-packagelists/main/source/python.js"
+		}
+	}
 }
