@@ -1,0 +1,9 @@
+{
+    "provider": "cobraosofficial.pkg.repo",
+    "packages": {
+        "test": {
+            "version": "1.0",
+            "codesource": "https://raw.githubusercontent.com/cobrasys/cobraos-packagelists/main/source/test.js"
+        }
+    }
+}
