@@ -3,11 +3,11 @@
 	"packages": {
 		"python": {
 			"version": "3.7",
-			"codesource": "https://raw.githubusercontent.com/cobrasys/cobraos-packagelists/main/source/python.js"
+			"codesource": "https://raw.githubusercontent.com/cobrasys/cobraosofficial.pkg.repo/main/source/python.js"
 		},
 		"g++": {
 			"version": "11.0",
-			"codesource": "https://raw.githubusercontent.com/cobrasys/cobraos-packagelists/main/source/g++.js"
+			"codesource": "https://raw.githubusercontent.com/cobrasys/cobraosofficial.pkg.repo/main/source/g++.js"
 		}
 	}
 }
