@@ -10,7 +10,12 @@
 			"version": "11.0",
 			"codesource": "https://raw.githubusercontent.com/cobrasys/cobraosofficial.pkg.repo/main/source/g++.js",
 			"codetype": "js"
-		}
+		},
+		"test": {
+			"version": "11.0",
+			"codesource": "https://raw.githubusercontent.com/cobrasys/cobraosofficial.pkg.repo/main/source/test.wat",
+			"codetype": "wasm"
+		},
 	}
 }
 
